@@ -24,3 +24,4 @@ Run `./ipabuild.sh` to build the ipa. The resulting tipa should be in a folder c
 - [TrollSpeed](https://github.com/Lessica/TrollSpeed) for the AssistiveTouch logic allowing this to work.
 - [Cowabunga](https://github.com/leminlimez/Cowabunga) for part of the code.
 - [AsakuraFuuko](https://github.com/AsakuraFuuko) for forking and updating.
+- 
