@@ -399,7 +399,7 @@ struct EditWidgetSetView: View {
                                 .bold()
                             Spacer()
                         }
-                        BetterSlider(value: $fontSize, bounds: 5...50, step: 0.5)
+                        BetterSlider(value: $fontSize, bounds: 5...100, step: 0.5)
                             .onChange(of: fontSize) { _ in
                                 changesMade = true
                             }
