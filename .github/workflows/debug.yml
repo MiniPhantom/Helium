@@ -1,4 +1,4 @@
-name: Build Helium Debug
+name: Build Debug
 
 on:
   push:
